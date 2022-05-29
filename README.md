@@ -8,7 +8,7 @@ For this analysis, we will be using Python, Pandas, and SQLAlchemy to help filte
 In our analysis, we can determine a few differences during the month of June and December.
 
 In our following image as a key:
-![This is an image](https://github.com/sadayas/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+![This is an image]([https://github.com/sadayas/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png](https://github.com/sadayas/surfs_up/blob/main/monthsummariessu.png))
 
 1. June has a higher minimum of temperature than December.
 	-June is at 64 degrees, while December is at 56 degrees.
